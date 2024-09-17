@@ -1,0 +1,2 @@
+Dados/Tratados/QCEW_Setorizado.csv filter=lfs diff=lfs merge=lfs -text
+Dados/Tratados/QCEW_Anual_Setorizado.csv filter=lfs diff=lfs merge=lfs -text
